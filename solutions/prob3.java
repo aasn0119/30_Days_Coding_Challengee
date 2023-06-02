@@ -1,7 +1,7 @@
 
 //  Most optimal Solution with T.C -> O(n) and S.C -> O(1)...!
 
-class Solution {
+class pob3 {
     boolean arraySortedOrNot(int[] arr, int n) {
         for(int i = 1; i < n; i++) {
             if(arr[i] >= arr[i - 1]) {

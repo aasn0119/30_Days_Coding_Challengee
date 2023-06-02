@@ -16,8 +16,8 @@ In this coding challenge, you will enhance your problem-solving skills and stren
 Below is the list of questions for each day. Click on the question name to view the detailed problem statement and instructions.
 
 1. [Day 1: Question Name](questions/day1-question-name.md)
-<!-- 2. [Day 2: Question Name](questions/day2-question-name.md)
-3. [Day 3: Question Name](questions/day3-question-name.md)
+2. [Day 2: Question Name](questions/day2-question-name.md)
+<!--3. [Day 3: Question Name](questions/day3-question-name.md)
 4. [Day 4: Question Name](questions/day4-question-name.md)
 5. [Day 5: Question Name](questions/day5-question-name.md)
 ... and so on. -->
